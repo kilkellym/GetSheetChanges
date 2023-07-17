@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>GetChangeViewsAndSheets - Command 1</Text>
+    <Description>Some description for GetChangeViewsAndSheets</Description>
+    <Assembly>GetChangeViewsAndSheets.dll</Assembly>
+    <FullClassName>GetChangeViewsAndSheets.Command1</FullClassName>
+    <ClientId>8ee647aa-abcc-4cca-a21e-fbcdc3d017da</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>GetChangeViewsAndSheets - Command 2</Text>
+    <Description>Some description for GetChangeViewsAndSheets</Description>
+    <Assembly>GetChangeViewsAndSheets.dll</Assembly>
+    <FullClassName>GetChangeViewsAndSheets.Command2</FullClassName>
+    <ClientId>1f38571f-39f1-4e3c-8b3d-46e95937f884</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>GetChangeViewsAndSheets</Name>
+    <Assembly>GetChangeViewsAndSheets.dll</Assembly>
+    <FullClassName>GetChangeViewsAndSheets.App</FullClassName>
+    <ClientId>eb6f72ba-f7f8-4cb1-9b32-96aff44261c0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
